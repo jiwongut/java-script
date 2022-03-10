@@ -12,3 +12,7 @@ bgImage.src = `img/${chosenImage}`;
 
 document.body.appendChild(bgImage); //html안에 넣어주기. (1920*1277)
 
+/* 
+.append = 가장 뒤에 오도록
+.prepend = 가장 앞에 오도록
+*/

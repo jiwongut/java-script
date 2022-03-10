@@ -55,4 +55,6 @@ Math.round() 반올림
 Math.ceil() 올림
 Math.floor() 내림
 
+Math.random() = 0~1 사이의 숫자 중 무작위로.
+Math.random() * [].length
 */
